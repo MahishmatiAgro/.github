@@ -29,25 +29,35 @@ We grow mushrooms in Maharajpur, Mandla, and offer fresh oyster mushrooms, dried
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://mahishmatiagro.github.io/view-product/?product=P0001">
-        <img src="https://mahishmatiagro.github.io/assets/img/products/fresh-oyster-mushroom.jpg" alt="Fresh oyster mushrooms" width="180" /><br />
-        <strong>Fresh Oyster Mushrooms</strong>
-      </a><br />
+        <img src="https://mahishmatiagro.github.io/assets/img/products/fresh-oyster-mushroom.jpg" alt="Fresh Oyster Mushrooms" width="96" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mahishmatiagro.github.io/view-product/?product=P0001"><strong>Fresh Oyster Mushrooms</strong></a><br />
       Freshly picked for your kitchen.
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://mahishmatiagro.github.io/view-product/?product=P0002">
-        <img src="https://mahishmatiagro.github.io/assets/img/products/dried-oyster-mushroom.jpg" alt="Dried oyster mushrooms" width="180" /><br />
-        <strong>Dried Oyster Mushrooms</strong>
-      </a><br />
+        <img src="https://mahishmatiagro.github.io/assets/img/products/dried-oyster-mushroom.jpg" alt="Dried Oyster Mushrooms" width="96" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mahishmatiagro.github.io/view-product/?product=P0002"><strong>Dried Oyster Mushrooms</strong></a><br />
       Rehydrate, cook and enjoy.
     </td>
-    <td align="center" width="33%">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://mahishmatiagro.github.io/view-product/?product=P0003">
-        <img src="https://mahishmatiagro.github.io/assets/img/products/mushroom-powder-front.webp" alt="Mahishmati Agro mushroom powder with a golden lid" width="180" /><br />
-        <strong>Mushroom Powder</strong>
-      </a><br />
+        <img src="https://mahishmatiagro.github.io/assets/img/products/mushroom-powder-front.webp" alt="Mushroom Powder" width="96" />
+      </a>
+    </td>
+    <td>
+      <a href="https://mahishmatiagro.github.io/view-product/?product=P0003"><strong>Mushroom Powder</strong></a><br />
       For soups, dal and gravies.
     </td>
   </tr>
